@@ -1,16 +1,20 @@
-### Hi there 👋
+## Oiê, sou a Thais Sousa!
 
-<!--
-**thais-sousa/thais-sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+:computer: Estudante de Desenvolvimento Back-end Node.js
 
-Here are some ideas to get you started:
+:books: Aprimorando meus conhecimentos em Node.js afim de contribuir com projetos que impactem a vida de outras pessoas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+ 
+
+## Conecte-se comigo
+
+Que saber mais? Conecte-se comigo e vamos tomar um café trocando ideias!
+
+[![Linkedin | Thais Sousa](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=%20LINK_LINKEDIN)](https://www.linkedin.com/in/thaismsousa/)
+
+---
+
+Obrigada pela visita ❤
