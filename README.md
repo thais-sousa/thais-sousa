@@ -3,7 +3,7 @@
  
 :computer: Estudante de Desenvolvimento Back-end Node.js
 
-:books: Aprimorando meus conhecimentos em Node.js afim de contribuir com projetos que impactem a vida de outras pessoas
+:books: Aprimorando meus conhecimentos em Kotlin afim de contribuir com projetos que impactem a vida de outras pessoas
 
 
 ---
