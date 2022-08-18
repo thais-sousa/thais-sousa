@@ -1,7 +1,7 @@
 ## Oiê, sou a Thais Sousa!
 
  
-:computer: Estudante de Desenvolvimento Back-end 
+:computer: Engenheira de Software Trainee
 
 
 ---
